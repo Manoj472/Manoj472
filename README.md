@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack projects focused on solving real-world problems**
 
-- 🌱 I’m currently learning **Full-Stack Application Development React.js and Modern Web Technologies Problem Solving and Data Structures**
+- 🌱 I’m currently learning **Full-Stack Application Development, React.js and Modern Web Technologies,Problem Solving and Data Structures**
 
 - 📫 How to reach me **manu96041@gmail.com**
 
